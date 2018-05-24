@@ -1,0 +1,22 @@
+*{
+    margin: 0 auto;
+}
+
+body {
+    margin-top: 40px;
+    width: 200px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    width: 200px;
+    text-decoration: none;
+}
+
+img {
+    width: 200px;
+    display: inline-block;
+}
